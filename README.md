@@ -1,3 +1,3 @@
 # Next-best-rule
 
-![](Next-Best-Algorithm/Next-Best.png)
+![](Next-Best.png)
